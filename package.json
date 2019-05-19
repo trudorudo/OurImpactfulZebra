@@ -1,0 +1,28 @@
+{
+  "name": "ourimpactfulzebra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trudorudo/OurImpactfulZebra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trudorudo/OurImpactfulZebra/issues"
+  },
+  "homepage": "https://github.com/trudorudo/OurImpactfulZebra#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^8.0.0",
+    "geocoder": "^0.2.3",
+    "inquire": "^0.4.8",
+    "node-geocoder": "^3.22.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
