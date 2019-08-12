@@ -2,7 +2,7 @@
 Liri js is a command line node app that takes in parameters and gives you back data.
 
 # Motivation
-Create an application that helps user to find any inforamation needeed about movies, concerts and songs.
+Create an application that helps user to find any information needed about movies, concerts and songs.
 
 # Technologies used
 *  Node.js
@@ -19,7 +19,7 @@ Create an application that helps user to find any inforamation needeed about mov
 
 # Code Examples
 Liri is a command line that takes in following commands:
-* spotify-this-song: takes a song title and log information about the song, artist and album. If no parameters are passed, the song loged will be "The Sign".
+* spotify-this-song: takes a song title and log information about the song, artist and album. If no parameters are passed, the song  logged  will be "The Sign".
 * movie-this: takes a movie title and log information: title, year the movie came out, IMDB Rating, Rotten Tomatoes Rating of the movie, Country where the movie was produces, language of the movie, plot and actors. If no parameters are passed, the movie loged will be "Mr. Nobody".
-* concert-this: takes an artist or band name and log information about theire concert: name of venue, venue location and date of event.
+* concert-this: takes an artist or band name and log information about their concert: name of venue, venue location and date of event.
 
