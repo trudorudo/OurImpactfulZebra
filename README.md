@@ -20,6 +20,6 @@ Create an application that helps user to find any information needed about movie
 # Code Examples
 Liri is a command line that takes in following commands:
 * spotify-this-song: takes a song title and log information about the song, artist and album. If no parameters are passed, the song  logged  will be "The Sign".
-* movie-this: takes a movie title and log information: title, year the movie came out, IMDB Rating, Rotten Tomatoes Rating of the movie, Country where the movie was produces, language of the movie, plot and actors. If no parameters are passed, the movie loged will be "Mr. Nobody".
+* movie-this: takes a movie title and log information: title, year the movie came out, IMDB Rating, Rotten Tomatoes Rating of the movie, Country where the movie was produces, language of the movie, plot and actors. If no parameters are passed, the movie logged will be "Mr. Nobody".
 * concert-this: takes an artist or band name and log information about their concert: name of venue, venue location and date of event.
 
