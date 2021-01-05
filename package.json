@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/trudorudo/OurImpactfulZebra#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bandsintown": "^1.0.1",
     "dotenv": "^8.0.0",
     "geocoder": "^0.2.3",
